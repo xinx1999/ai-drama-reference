@@ -6,11 +6,13 @@
 
 - GitHub 仓库：https://github.com/xinx1999/ai-drama-reference
 - GitHub Pages 在线版：https://xinx1999.github.io/ai-drama-reference/
+- 视频提示词工作台在线版：https://xinx1999.github.io/prompt-workbench/
+- 工作台仓库：https://github.com/xinx1999/prompt-workbench
 - 人物 / 姿势图库源站：https://ai-pose-gallery.anhao.app
 - 服装图库源站：https://ai-costume-gallery.pages.dev
 - 图库原仓库（anhao/ai-pose-gallery-zh）：https://github.com/anhao/ai-pose-gallery-zh
 
-> 与「视频 × 提示词工作台」集成：工作台的「📚 参考库」tab 以 iframe 内嵌本页，需将本目录与工作台 HTML 放在同一级目录。
+> 与「视频 × 提示词工作台」集成：工作台的「📚 参考库」tab 以 iframe 内嵌本页。本地打开时读取同级目录，GitHub Pages 线上版自动加载本页在线地址。
 
 ## 功能
 
