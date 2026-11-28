@@ -2,6 +2,16 @@
 
 纯静态单页应用，直接打开 `index.html` 即可使用，无需构建。
 
+## 在线地址
+
+- GitHub 仓库：https://github.com/xinx1999/ai-drama-reference
+- GitHub Pages 在线版：https://xinx1999.github.io/ai-drama-reference/
+- 人物 / 姿势图库源站：https://ai-pose-gallery.anhao.app
+- 服装图库源站：https://ai-costume-gallery.pages.dev
+- 图库原仓库（anhao/ai-pose-gallery-zh）：https://github.com/anhao/ai-pose-gallery-zh
+
+> 与「视频 × 提示词工作台」集成：工作台的「📚 参考库」tab 以 iframe 内嵌本页，需将本目录与工作台 HTML 放在同一级目录。
+
 ## 功能
 
 - **风格**：46 种风格对照图，每种含中文名 / 英文名关键词标签与中英双提示词，图片为本地 jpg。
@@ -23,6 +33,6 @@
 
 1. 用这个目录作为仓库根目录推送到 GitHub。
 2. 仓库 Settings → Pages → Source 选择 `main` 分支 `/ (root)`。
-3. 访问 `https://你的用户名.github.io/仓库名/`。
+3. 访问在线版：https://xinx1999.github.io/ai-drama-reference/
 
 `.nojekyll` 已包含，确保静态资源正常加载。
